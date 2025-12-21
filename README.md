@@ -7,6 +7,6 @@ This following work is a **group work**! Make sure to have all your group assemb
 
 In this course, you are required to work with the Visual Studio Code IDE. This will allow us to efficiently help you in case you run into troubles. Let's take a look at the basic layout of VS code. 
 
-| Header | Intro message | 
+| Visual studio code layout | Commented parts of the layout | 
 | ------ | ------------- | 
 | <img src="./imgs/visualCode.png" alt="Visual studio code layout"> | <img src="./imgs/visualCodeColoured.png" alt="Visual studio code layout commented">
