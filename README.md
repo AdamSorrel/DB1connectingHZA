@@ -84,7 +84,7 @@ Similarly to downloading files, any files that share name are likely to be overr
 There are several files that are necessary for the execution of your program. These are the following:
 
 - `boot.py` contains basic information pointing towards the `main.py` script. :warning: **You should never edit this file.**
-- `main.py` is a very simple file. It consists of only one line (and one comment). This point towards your actual code. We will keep it that way and edit only the content of the `execfile()` function, pointing towards the file which will actually contain your code. :warning: **Do not add your own code into the `main.py` file.**
+- `main.py` is a very simple file. It consists of only one line (and one comment). This points towards your actual code. We will keep it that way and edit only the content of the `execfile()` function, pointing towards the file which will actually contain your code. :warning: **Do not add your own code into the `main.py` file.**
 
 <br> 
 
